@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post ones",
+      "body": "This is the post body",
+      "publishedAt": ""
+    },
+    {
+      "id": "2",
+      "title": "Post two",
+      "body": "This is the post body",
+      "publishedAt": "24-09-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "This is the post body",
+      "publishedAt": "24/09/2021"
+    },
+    {
+      "id": "4",
+      "title": "Post four",
+      "body": "This is the post body",
+      "publishedAt": "24-09-2021"
+    },
+    {
+      "body": "post 6",
+      "publishedAt": "",
+      "id": "s3PnwUG"
+    },
+    {
+      "publishedAt": "2021-05-24",
+      "title": "HTML",
+      "id": "ivkkOiI"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John ",
+      "email": "john@example.com"
+    },
+    {
+      "name": "yash",
+      "email": "yash@uhb.com",
+      "id": "2dSdfyg"
+    }
+  ]
+}
